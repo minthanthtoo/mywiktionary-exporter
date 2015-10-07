@@ -1,0 +1,782 @@
+﻿<xml>
+  <page>
+    <title>က</title>
+    <ns>0</ns>
+    <id>99501</id>
+    <revision>
+      <id>570312</id>
+      <parentid>511730</parentid>
+      <timestamp>2015-07-01T11:03:59Z</timestamp>
+      <contributor>
+        <username>HydrizBot</username>
+        <id>1687</id>
+      </contributor>
+      <minor />
+      <comment>ရိုဘော့က ပေါင်းထည့်နေသည် - chr, ko, mn, pl, ru</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Myanmar character info|type=letter|next=ခ|image=[[File:Burmese_character_k.svg|100px]]|name=MYANMAR LETTER KA|hex=1000}}
+=={{=my=}}==
+'''က'''
+===အသံထွက်===
+* {{MLCTS|/ka./}}
+* {{IPA|/ka̰/}}
+* {{audio|က.ogg}}
+===ရင်းမြစ်===
+* 
+===နာမ်===
+{{my-noun}}
+* common noun
+* က
+* က(n)
+* 
+* current
+
+# ဗျည်းသုံးဆယ့်သုံးလုံးတွင် အစဗျည်း။ (ကကြီးဟုခေါ်သည်။ )
+#: က၊ ခ ဟူ၍ ဗျဉ်းစဉ်ရှိသည်။ ဝေါ။ ၁ဝ၅။
+====အရေအတွက်====
+* လုံး
+====ကြောင်းတူသံကွဲများ====
+* ကကြီး,ကကြီးအက္ခရာ,ကအက္ခရာ,(all nouns)
+====ဆန့်ကျင်ဘက်စကားလုံးများ====
+* 
+====ဆက်စပ်အသုံးများ====
+* 
+===ဘာသာပြန်===
+====အင်္ဂလိပ်====
+* first letter of the Myanmar alphabet.
+
+=={{=my=}}==
+'''က'''
+===အသံထွက်===
+* {{MLCTS|/ka./}}
+* {{IPA|/ka̰/}}
+===ရင်းမြစ်===
+* 
+===ကြိယာ===
+{{my-verb}}
+* causative verb
+* က
+* က(v)
+* 
+* current
+
+# ခေါင်း၊ ခါး၊ ခြေ၊ လက် စသည်တို့ကို ရှုချင်စဖွယ် ညွတ်ကွေးလှုပ်ရှားပြသည်။
+#: ဇော်က ကနေသည်။
+====အရေအတွက်====
+* 
+====ကြောင်းတူသံကွဲများ====
+* ကခုန်,ကပြ,(all verbs)
+====ဆန့်ကျင်ဘက်စကားလုံးများ====
+* 
+====ဆက်စပ်အသုံးများ====
+* 
+===ဘာသာပြန်===
+====အင်္ဂလိပ်====
+* dance.
+
+=={{=my=}}==
+'''က'''
+===အသံထွက်===
+* {{MLCTS|/ka./}}
+* {{IPA|/ka̰/}}
+===ရင်းမြစ်===
+* 
+===နာမ်===
+{{my-noun}}
+* simple noun
+* က
+* က(n)
+* 
+* current
+
+# အက။ ကခြင်း။ ကပြသောဟန်အမူအရာ။ ကခြင်းအတတ်ပညာ။
+#: မင်းသားက၊ ဇော်က၊ ဘီလူးက။
+====အရေအတွက်====
+* ကွက်
+====ကြောင်းတူသံကွဲများ====
+* အက
+====ဆန့်ကျင်ဘက်စကားလုံးများ====
+* 
+====ဆက်စပ်အသုံးများ====
+* 
+===ဘာသာပြန်===
+====အင်္ဂလိပ်====
+* dance.
+
+=={{=my=}}==
+'''က'''
+===အသံထွက်===
+* {{MLCTS|/ka./}}
+* {{IPA|/ka̰/}}
+===ရင်းမြစ်===
+* 
+===ကြိယာ===
+{{my-verb}}
+* simple verb
+* က
+* က,(v)
+* 
+* current
+
+# လှည်း၊ ရထားစသည်တို့၌ ကျွဲ၊ နွား၊ မြင်းတို့ကို တပ်ဆင်သည်။
+#: လှည်းကသည်။ ရထားကသည်။
+====အရေအတွက်====
+* 
+====ကြောင်းတူသံကွဲများ====
+* ‌ေကာက်,(v)
+====ဆန့်ကျင်ဘက်စကားလုံးများ====
+* 
+====ဆက်စပ်အသုံးများ====
+* 
+===ဘာသာပြန်===
+====အင်္ဂလိပ်====
+* harness a horse or any draught animal for work.
+
+=={{=my=}}==
+'''က'''
+===အသံထွက်===
+* {{MLCTS|/ka./}}
+* {{IPA|/ka̰/}}
+===ရင်းမြစ်===
+* 
+===နာမ်===
+{{my-noun}}
+* simple noun
+* က
+* က(n)
+* 
+* current
+
+# ဆင်၊ မြင်းတို့တွင် လူထိုင်ရန် ပြုလုပ်ထားသောအရာ။
+#: မင်းသားနှင့် မင်းသမီး ဆင်ကပေါ်မှာ ထိုင်လျက် လိုက်ပါသွားတယ်။
+====အရေအတွက်====
+* ခု
+====ကြောင်းတူသံကွဲများ====
+* 
+====ဆန့်ကျင်ဘက်စကားလုံးများ====
+* 
+====ဆက်စပ်အသုံးများ====
+* 
+===ဘာသာပြန်===
+====အင်္ဂလိပ်====
+* howdah; saddle.
+
+=={{=my=}}==
+'''က'''
+===အသံထွက်===
+* {{MLCTS|/ka./}}
+* {{IPA|/ka̰/}}
+===ရင်းမြစ်===
+* 
+===ဝိဘတ်===
+{{my-prep}}
+* nominative
+* က
+* က(ppm)
+* 
+* current
+
+# ပြုသူ၊ ဖြစ်သူကို ညွှန်ပြသော စကားလုံး။
+#: မြင်းကမလှုပ် ခုံကလှုပ်၊ ယုန်ကမတိုး ပိုက်ကတိုး။ စကားပုံ။
+====အရေအတွက်====
+* 
+====ကြောင်းတူသံကွဲများ====
+* 
+====ဆန့်ကျင်ဘက်စကားလုံးများ====
+* 
+====ဆက်စပ်အသုံးများ====
+* 
+===ဘာသာပြန်===
+====အင်္ဂလိပ်====
+* 1. postpositional marker to indicate nominative case.
+
+=={{=my=}}==
+'''က'''
+===အသံထွက်===
+* {{MLCTS|/ka./}}
+* {{IPA|/ka̰/}}
+===ရင်းမြစ်===
+* 
+===ဝိဘတ်===
+{{my-prep}}
+* indicating time/ locative
+* က
+* က(ppm)
+* 
+* current
+
+# ပြုရာ၊ ဖြစ်ရာ၊ ရှိရာအချိန်ကိုပြသော စကားလုံး။
+#: မနှစ်က မိုးကောင်းသည်။
+====အရေအတွက်====
+* 
+====ကြောင်းတူသံကွဲများ====
+* 
+====ဆန့်ကျင်ဘက်စကားလုံးများ====
+* 
+====ဆက်စပ်အသုံးများ====
+* 
+===ဘာသာပြန်===
+====အင်္ဂလိပ်====
+* 2. postpositional marker to indicating temporal case.
+
+=={{=my=}}==
+'''က'''
+===အသံထွက်===
+* {{MLCTS|/ka./}}
+* {{IPA|/ka̰/}}
+===ရင်းမြစ်===
+* 
+===ဝိဘတ်===
+{{my-prep}}
+* nominative
+* က
+* က(ppm)
+* 
+* current
+
+# ပြုရာ၊ ဖြစ်ရာ၊ ရှိရာအရပ် စသည်တို့ကို ပြသော စကားလုံး။
+#: မန္တလေးက သူငယ်ချင်း။ တုံးအောက်ကဖား။ MED။ ၁။
+====အရေအတွက်====
+* 
+====ကြောင်းတူသံကွဲများ====
+* 
+====ဆန့်ကျင်ဘက်စကားလုံးများ====
+* 
+====ဆက်စပ်အသုံးများ====
+* 
+===ဘာသာပြန်===
+====အင်္ဂလိပ်====
+* 3. postpositional marker indicating locative case.
+
+=={{=my=}}==
+'''က'''
+===အသံထွက်===
+* {{MLCTS|/ka./}}
+* {{IPA|/ka̰/}}
+===ရင်းမြစ်===
+* 
+===ဝိဘတ်===
+{{my-prep}}
+* nominative
+* က
+* က(ppm)
+* 
+* colloquial
+
+# ထွက်ခွာရာအရပ်ကိုပြသော စကားလုံး။ မှ။
+#: မန္တလေးကလာတယ်။ MED။ ၁။
+====အရေအတွက်====
+* 
+====ကြောင်းတူသံကွဲများ====
+* မှ,(ppm)
+====ဆန့်ကျင်ဘက်စကားလုံးများ====
+* 
+====ဆက်စပ်အသုံးများ====
+* 
+===ဘာသာပြန်===
+====အင်္ဂလိပ်====
+* postpositional marker indicating place.
+
+=={{=my=}}==
+'''က'''
+===အသံထွက်===
+* {{MLCTS|/ka./}}
+* {{IPA|/ka̰/}}
+===ရင်းမြစ်===
+* 
+===သမ္ဗန္ဓ===
+{{my-conj}}
+* conjunction linking sentences
+* က
+* က(conj)
+* 
+* current
+
+# အကြောင်းအရာတစ်ခုသည် အခြားအကြောင်းအရာတစ်ခုပေါ်တွင် မှီ၍သာလျှင် ဖြစ်မည့်အကြောင်း ဆက်စပ်ညွှန်ပြသောစကားလုံး။
+#: သူလာက ငါသွားမည်။
+====အရေအတွက်====
+* 
+====ကြောင်းတူသံကွဲများ====
+* 
+====ဆန့်ကျင်ဘက်စကားလုံးများ====
+* 
+====ဆက်စပ်အသုံးများ====
+* 
+===ဘာသာပြန်===
+====အင်္ဂလိပ်====
+* if.
+
+=={{=my=}}==
+'''က'''
+===အသံထွက်===
+* {{MLCTS|/ka./}}
+* {{IPA|/ka̰/}}
+===ရင်းမြစ်===
+* Mon-က
+===နာမ်===
+{{my-noun}}
+* common noun
+* က
+* Mon-က&gt;က(n)
+* 
+* current
+
+# မွန်ဘာသာ၌ ငါးသတ္တဝါအနက်ရသောစကား။
+#: ငါးလက်ခွာငါးကို မွန်တို့က ကကူရံဟုခေါ်သည်။
+====အရေအတွက်====
+* ကောင်
+====ကြောင်းတူသံကွဲများ====
+* ငါး
+====ဆန့်ကျင်ဘက်စကားလုံးများ====
+* 
+====ဆက်စပ်အသုံးများ====
+* 
+===ဘာသာပြန်===
+====အင်္ဂလိပ်====
+* fish.
+
+=={{=my=}}==
+'''က'''
+===အသံထွက်===
+* {{MLCTS|/ka./}}
+* {{IPA|/ka̰/}}
+===ကြိယာ===
+{{my-verb}}
+* stative verb
+* က
+* က(v)
+* 
+* current
+
+# မပိုမသာဖြစ်သည်။ (မနှင့်တွဲ၍ ပိုသာသည့်အနက်ဖြင့် အသုံးများသည်။ )
+#: တစ်ပါးမက များလှစွာသော အန္တရာယ်ကို ပြုတတ်သော။ လောအင်။ ၇၄။
+====အရေအတွက်====
+* 
+====ကြောင်းတူသံကွဲများ====
+* 
+====ဆန့်ကျင်ဘက်စကားလုံးများ====
+* 
+====ဆက်စပ်အသုံးများ====
+* 
+===ဘာသာပြန်===
+====အင်္ဂလိပ်====
+* be at least equal to (usually used in the negative form).
+
+==ကိုးကား==
+# Burmese Orthography, Myanmar Language Commission, 1993.
+
+[[chr:က]]
+[[en:က]]
+[[fj:က]]
+[[ja:က]]
+[[ko:က]]
+[[mg:က]]
+[[mn:က]]
+[[pl:က]]
+[[ru:က]]
+[[th:က]]</text>
+      <sha1>4erdfvkkqv2nu89ubxlhh0xaxyrgk19</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>book</title>
+    <ns>0</ns>
+    <id>6894</id>
+    <revision>
+      <id>582619</id>
+      <parentid>579331</parentid>
+      <timestamp>2015-08-25T08:39:57Z</timestamp>
+      <contributor>
+        <username>HydrizBot</username>
+        <id>1687</id>
+      </contributor>
+      <minor />
+      <comment>ရိုဘော့က ပေါင်းထည့်နေသည် - [[ie:book]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{en wikipedia}}
+==အင်္ဂလိပ်==
+{{audio|en-us-book.ogg|Audio (US)}}
+===နာမ်===
+* စာအုပ်
+*
+===ကြိယာ===
+*  စာရင်းသွင်းသည်။ စာ၌မှတ်၍ထားသည် ၊  ( အခန်း၊လေယာဉ်လက်မှတ်၊ ရထားလက်မှတ် စသည် ရယူရန် စာရင်းပေးသည်။)
+# I [[want]] to book [[a]] [[room]] for [[tomorrow]].
+*
+===Synonym===
+*
+
+[[af:book]]
+[[ar:book]]
+[[az:book]]
+[[be:book]]
+[[bs:book]]
+[[ca:book]]
+[[chr:book]]
+[[cs:book]]
+[[cy:book]]
+[[da:book]]
+[[de:book]]
+[[dv:book]]
+[[el:book]]
+[[en:book]]
+[[eo:book]]
+[[es:book]]
+[[et:book]]
+[[eu:book]]
+[[fa:book]]
+[[fi:book]]
+[[fj:book]]
+[[fr:book]]
+[[gd:book]]
+[[gl:book]]
+[[gv:book]]
+[[hr:book]]
+[[hu:book]]
+[[hy:book]]
+[[id:book]]
+[[ie:book]]
+[[io:book]]
+[[it:book]]
+[[iu:book]]
+[[ja:book]]
+[[ka:book]]
+[[kk:book]]
+[[km:book]]
+[[kn:book]]
+[[ko:book]]
+[[ku:book]]
+[[ky:book]]
+[[li:book]]
+[[lo:book]]
+[[lt:book]]
+[[lv:book]]
+[[mg:book]]
+[[mk:book]]
+[[ml:book]]
+[[ms:book]]
+[[mt:book]]
+[[nds:book]]
+[[nl:book]]
+[[no:book]]
+[[oc:book]]
+[[pl:book]]
+[[pt:book]]
+[[ro:book]]
+[[ru:book]]
+[[sa:book]]
+[[sg:book]]
+[[si:book]]
+[[simple:book]]
+[[sk:book]]
+[[sm:book]]
+[[so:book]]
+[[sq:book]]
+[[sr:book]]
+[[sv:book]]
+[[sw:book]]
+[[ta:book]]
+[[te:book]]
+[[tg:book]]
+[[th:book]]
+[[tl:book]]
+[[tr:book]]
+[[ug:book]]
+[[uk:book]]
+[[ur:book]]
+[[uz:book]]
+[[vec:book]]
+[[vi:book]]
+[[wa:book]]
+[[zh:book]]
+[[zh-min-nan:book]]
+[[zu:book]]</text>
+      <sha1>tulfczuml9lcfn0507psw4bry4hr3fh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>စာအုပ်</title>
+    <ns>0</ns>
+    <id>6895</id>
+    <revision>
+      <id>536842</id>
+      <parentid>511880</parentid>
+      <timestamp>2014-03-20T15:48:40Z</timestamp>
+      <contributor>
+        <username>YS-Bot</username>
+        <id>1872</id>
+      </contributor>
+      <minor />
+      <comment>r2.7.3) (ရိုဘော့က ပေါင်းထည့်နေသည် - [[chr:စာအုပ်]], [[hu:စာအုပ်]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">=={{=my=}}==
+{{wikipedia}}
+'''စာအုပ်'''
+===အသံထွက်===
+* {{MLCTS|/sa ou'/}}
+* {{IPA|/sàʔoʊʔ/}}
+===ရင်းမြစ်===
+* 
+===နာမ်===
+{{my-noun}}
+* common noun
+* အုပ်
+* စာ(n)+အုပ်(n)
+* 
+* current
+
+# စုပေါင်းချုပ်ထားသောစာရွက်များ။
+#: ထွက်ပေါ်သမျှသောစာအုပ်သစ်စာအုပ်ဟောင်းများကို ထိုစာကြည့်တိုက်တွင် တွေ့နိုင်သည်။ စွယ်ကျမ်း၊ ၃။ ၃၈၂။
+====အရေအတွက်====
+* [[အုပ်]]
+====ကြောင်းတူသံကွဲများ====
+* [[ဘုတ်အုပ်]],(n)
+====ဆန့်ကျင်ဘက်စကားလုံးများ====
+* 
+====ဆက်စပ်အသုံးများ====
+* 
+===ဘာသာပြန်===
+====အင်္ဂလိပ်====
+* [[book]].
+
+==ကိုးကား==
+# Burmese Orthography, Myanmar Language Commission, 1993.
+
+[[chr:စာအုပ်]]
+[[en:စာအုပ်]]
+[[fj:စာအုပ်]]
+[[hu:စာအုပ်]]
+[[ko:စာအုပ်]]
+[[mg:စာအုပ်]]
+[[pl:စာအုပ်]]
+[[th:စာအုပ်]]</text>
+      <sha1>ldldcxq8j18p6ipny7uifi5btj8sjz5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>shit</title>
+    <ns>0</ns>
+    <id>6929</id>
+    <revision>
+      <id>579876</id>
+      <parentid>564165</parentid>
+      <timestamp>2015-07-29T22:08:19Z</timestamp>
+      <contributor>
+        <username>JAnDbot</username>
+        <id>1005</id>
+      </contributor>
+      <minor />
+      <comment>r2.7.3) (ရိုဘော့က ပေါင်းထည့်နေသည် - [[ay:shit]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">==အင်္ဂလိပ်==
+
+===အသံထွက်===
+* {{enPR|shĭt}}, {{IPA|/ʃɪt/}}
+* {{audio|en-us-shit.ogg|Audio (US)|lang=en}}
+* {{rhymes|ɪt}}
+
+====နာမ်====
+{{en-noun|-|s}}
+
+# ဝမ်းမှထွက်လာသော အစိုင်အခဲ အညစ်အကြေး ရလဒ် (ချီး၊ မစင်) {{context|uncountable|colloquial|lang=en}} Solid [[excretory]] [[product]] [[evacuate]]d from the [[bowel]]s; [[feces]].
+#*: ချီးပြသာနာ ကိုင်တွယ်ဖြေရှင်းရာတွင်၊ အာရှတိုက်မှ တချို့သောမြို့များနှင့် အာဖရိကာတိုက်မှမြို့အများတို့မှာ ပုဂ္ဂလိကပိုင် လောရိကားများနှင့် လူတို့၏ မိလ္လာကို စုပ်ယူပြီး မြစ်ရေထဲ ချလိုက်၏။ In tackling the '''shit''' problem, the practice in most African and some Asian cities is for [[private]] lorries to [[suck]] up human [[waste]] and [[dump]] it in rivers. 
+# ဝမ်းပျက်ခြင်း၊ {{context|countable|colloquial|in the plural|definite|lang=en}} ('''the [[shits]]''') [[diarrhea]].
+#: သူသုံးရက်ကြာ ဝမ်းပျက်ခဲ့ရသည်။ ''He had the '''shits''' for three days.''
+#  အညစ်အကြေး ထုတ်ချိန်၊  {{context|countable|colloquial|lang=en}} An [[instance]] of [[defecation]].
+#:  ဒီကောင် ငြိမ်းချမ်းစွာ ချီးမပါနိုင်ဘူးလား၊  ''Can't a guy take a '''shit''' in peace?''
+# အမှိုက်၊ တန်ဖိုးမရှိ အရာ၊ {{context|uncountable|vulgar|colloquial|lang=en}} [[rubbish|Rubbish]]; [[worthless]] matter.
+(သတိပြုပါ - ယခုအခါ- စျေးဆိုင်များတွင် တင်ရောင်းနေသော ပလပ်စတစ်အကြည်နဲ့ သောက်ရေသန့်ဘူးတို့သည် လူတို့၏ ချီးမှ တိုက်ရိုက်ပြောင်းထုတ်သော ပလပ်စတစ်ကုန်ကြမ်းကို သုံးပြီထုတ်လုပ်သည်ဖြစ်လို့ ချီးလည်းတန်ဖိုး အထိုက်အလျောက် ရှိလာပြီ။)
+#: ဒီ အစုတ်ကို အပြင်လွတ်ပစ်လိုက်၊ ''Throw that '''shit''' out!''
+# အရာများ၊ {{context|uncountable|vulgar|colloquial|lang=en}} [[stuff|Stuff]], [[thing]]s.
+#: ငါ့ ကားရုံထဲက မင်း အရာတွေကို ထုတ်ပစ်လိုက်ပါ။ ''I want your '''shit''' out of my garage.''
+# အကောင်းဆုံး အမျိုးအစား၊ {{context|uncountable|colloquial|definite|lang=en}} ('''the shit''') The [[best]] of its [[kind]].
+#: ဒီ စပျစ်သီးတွေ အကောင်းဆုံးဘဲ။''These grapes are the '''shit'''!''
+# အဓိပ္ပါယ် မရှိ၊ နွားသိုးချီး၊{{context|uncountable|vulgar|colloquial|lang=en}} [[nonsense|Nonsense]]; [[bullshit]].
+#: သူ ပြောသမျှက အီအီတုံး တွေဘဲ။ ''[[Everything]] he says is a [[load]] of '''shit'''.''
+# ယောက်ျားများကိုသာအသုံးပြုလေ့ရှိ- ရွံ့စရာ၊ မနှစ်မျို့စရာကောင်းသူ၊{{context|countable|vulgar|colloquial|lang=en}} A [[nasty]], [[despicable]] person, used particularly of men.
+#: သူမ၏သားသည် သူမအတွက် တကယ်ကို အော်ဂလီဆန် ဘဲ။  ''Her son has been a real '''shit''' to her.''
+# ဘာမဆို -(ဆန့်ကျင်ခြင်း သဘော) {{context|uncountable|vulgar|colloquial|lang=en}} (''in negations'') [[anything|Anything]].
+#: သူ့အမြင်ကတော့ ချီးလောက်တောင် တန်ဘိုးမရှိ၊ ''His opinion is not worth '''shit'''.'' = His [[opinion]] is not [[worth]] anything.
+#: ငါတို့မှ နေထိုင်ဖို့ ချီးတောင်မရှိဘူး။ ''We don’t have '''shit''' to live on.'' = We don’t have anything to live on.
+#: သူက ချီးတောင် သီးချင်းမဆိုနိုင်ဘူး။ '' He can't sing for '''shit'''.'' = He can't sing for anything. = He can't sing at all.
+#  ပြသာနာ (သို့) ခက်ခဲအခြေအနေ ၊{{context|uncountable|vulgar|colloquial|lang=en}} A [[problem]] or [[difficult]] [[situation]].
+#: ငါ တကယ်ကို ပြသာနာတခုခု တက်နေတယ်။ ''I'm in some [[serious]] '''shit'''''.
+#: မနေ့ညက ညပွဲရုံမှာ ပြသာနာတခုခု တက်သွားတယ်။ ''Some '''shit''' went down at the nightclub last night''.
+# ပြင်းထန်စွာ ဆုံးမ ၊{{context|uncountable|vulgar|colloquial|lang=en}} A strong [[rebuke]].
+#: ငါ သူကို တပါတ်အတွင်း နှစ်ခါ၊  သုံးနာရီစီ နောက်ကျတာကို ပြင်းပြင်းထန်ထန် ဆုံးမလိုက်သည်။ ''I gave him '''shit''' for being three hours late twice in one week.''
+# အပန်းဖြေရေးနှင့်ဆိုင်သောမူးယစ် ဆေးခြောက် ။ {{context|uncountable|vulgar|colloquial|lang=en}} any [[recreational]] drug, usually [[cannabis]].
+
+====ကြောင်းတူစာလုံးကွဲများ====
+* {{sense|solid excretory product evacuated from the bowels}} [[crap]], [[dirt]], [[dung]], [[excrement]], [[fecal matter]], [[feces]], 
+
+[[ordure]], [[poop]], [[shite]], [[scat]], [[stool]], [[turd]]
+* See also [[Wikisaurus:feces]], [[Wikisaurus:nonsense]], [[Wikisaurus:nothing]].
+
+===ဆင်းသက်လာသောအသုံးများ===
+{{rel-top3|Terms derived from ''shit'' (noun)}}
+* [[apeshit]]
+* [[batshit]]
+* [[bearshit]]
+* [[birdshit]]
+* [[bullshit]]
+* [[catshit]]
+* [[chickenshit]]
+* [[cowshit]]
+* [[dipped in shit]]
+* [[dogshit]]
+* [[donkeyshit]]
+* [[don't shit where you eat]]
+* [[dumbshit]]
+* [[full of shit]]
+* [[give a shit]]
+* [[give someone the shits]]
+* [[give someone shit]]
+* [[goat shit]]
+* [[good shit]]
+* [[have a shit]]
+* [[horseshit]]
+{{rel-mid3}}
+* [[jack shit]]
+* [[like shit]]
+* [[pack shit]]
+* [[piece of shit]]
+* [[pigshit]]
+* [[pile of shit]]
+* [[ratshit]]
+* [[rocking horse shit]]
+* [[rocking-horse shit]]
+* [[sheepshit]]
+* [[shitbag]]
+* [[shitbird]]
+* [[shitcan]]
+* [[shiteater]]
+* [[shitfaced]]
+* [[shit happens]]
+* [[shit heel]]
+* [[shithole]]
+* [[shit factory]]
+* [[shit fit]]
+* [[shit-for-brains]]
+{{rel-mid3}}
+* [[shithead]]
+* [[shithouse]]
+* [[shitless]]
+* [[shitload]]
+* [[Shitmas]]
+* [[shitpile]]
+* [[shits]]
+* [[shit sandwich]]
+* [[shit soup]]
+* [[shit stain]]
+* [[shitstorm]]
+* [[shitting]]
+* [[shitty]]
+* [[take a shit]]
+* [[the shit]]
+* [[the shits]]
+* [[tough shit]]
+* [[whaleshit]]
+* [[wormshit]]
+
+=====စာ၊စကားပြန်များ=====
+{{trans-top|solid excretory product evacuated from the bowel}}
+* Burmese: {{t+|my|ဘင်|tr=bin|sc=Mymr}}, {{t|my|ချေး|tr=chi:|sc=Mymr}}
+
+====နာမဝိသေသန====
+{{en-adj|more|shitter}}
+
+# အရည်အသွေး ညံ့ဖျင်းသော၊  တန်ဖိုးမရှိသော၊{{context|vulgar|colloquial|lang=en}} Of [[poor]] quality; [[worthless]].
+#: ဒီ ဖလင်(ရုပ်ရှင်ကား)က ချီးဘဲ ပါလား။''What a '''shit''' film that was!''
+# ရွံ့ဖွယ်ဖြစ်သော၊ မနှစ်မျို့စရာ၊ {{context|vulgar|colloquial|lang=en}} [[nasty|Nasty]]; [[despicable]].
+#: သူ့ကို ချီးလိုပြုလုပ် လိုက်တာဘဲ။ ''That was a '''shit''' thing to do to him.''
+
+===ဆင်းသက်လာသောအသုံးများ===
+* [[happy as a pig in shit]]
+* [[shit hot]]
+* [[shittastic]]
+* [[shoot the shit]]
+
+====ကြိယာ====
+{{en-verb|shits|shitting|'''[[shit]]''', '''[[shitted]]''', or '''[[shat]]'''|'''[[shit]]''', '''[[shitted]]''', '''[[shat]]''', or '''[[shitten]]'''}}
+
+#  အညစ်အကြေး (ချီး)ထုတ်သည်။{{context|intransitive|vulgar|colloquial|lang=en}} To [[defecate]].
+# ဖင်ပေါက်မှ အညစ်တခုခု ထုတ်သည်။ {{context|transitive|colloquial|lang=en}} To [[excrete]] (something) through the [[anus]].
+# အရူးလုပ်သည်(သူတပါးကို)၊ လိမ်လည်ဖျားသည်။{{context|transitive|vulgar|colloquial|lang=en}} To [[fool]] or [[try]] to fool someone; to be [[deceitful]].
+#: ဒါ ဒေါ်လာ ၁၂၀၀တန်တယ် (အံ့အားသင့်) - မင်း ငါကို လိမ်နေတာလား။ ''Twelve hundred dollars!? Are you '''shitting''' me!?''
+# စိတ်ရှုပ်စေသည်။ {{context|transitive|vulgar|colloquial|Australia|lang=en}} To [[annoy]].
+#: ဒီချီး(ကဲ့သို့)ကြော်ငြာက ငါ့ကို မျက်ရည်ကျစေသည်။ ''That ad '''shits''' me to [[tear]]s.''
+
+
+====ကြောင်းတူစာလုံးကွဲများ====
+* {{sense|defecate}} see also [[Wikisaurus:defecate]]
+* {{sense|try to fool}} [[shit with]]
+
+======ဆင်းသက်လာသောအသုံးများ======
+* [[beshit]]
+
+====ကြားဖောက်ပြောဆိုခြင်း====
+{{en-interj}}
+
+# ပူပင်စိုးရိမ်ကြောင့်ကြမှု၊ ဆုံးရှုံးမှု၊ အထိန့်တလန့်ဖြစ်မှု စသည်တို့ဖေါ်ပြချက် - ဒီ အသုံးကို မသုံးမိခင်ကလေး သတိရလို့ (သို့) တခုခုကို ပထမအကြိမ် တွေ့မြင်ရလို့ {{context|vulgar|lang=en}} [[Expression]] of [[worry]], [[failure]], [[shock]], etc., often at something seen for the first time or remembered [[immediate]]ly before using this term.
+#: ဟ ချီးဘဲ၊ ငါ့အိပ်ယာလိပ်ကို ငါလိပ်ဖို့ မေ့သွားပြီလို့ ထင်တယ်။ '''''Shit!''' I think that I forgot to pack my sleeping bag.''
+#: မိုးပေါ်က အီတုန်းပါလား။ ''Holy '''shit'''!''
+#: ဟ၊ သောက်ပလုပ်တုတ် (အီအီတုန်း ဖြစ်ပြီ) ''Oh, '''shit'''!''
+# မနှစ်မျို့ (သို့) အံ့အားသင့်မှုကို ပြသ၊{{context|vulgar|lang=en}} To show [[displeasure]] or [[surprise]].
+#: သူ၏ ဆရာမကို - ဟ ဂွဘဲ - အိမ်စာကို အိမ်မှာကျန်ရစ်ခဲ့ပြီ။ ဒါ့အတွက် သူပြသာနာတက်လိုက်ရတယ်။ ''&quot;Oh, '''shit'''. I left my home-[[assign]]ment paper at home,&quot; she said to her teacher, which got her in [[trouble]].''
+
+====ကြောင်းတူစာလုံးကွဲများ====
+* See also [[Wikisaurus:dammit]]
+* [[poo]]
+
+===ဆင်းသက်လာသော အသုံးများ===
+* [[holy shit]]
+* [[shit yeah]]
+
+[[ay:shit]]
+[[ca:shit]]
+[[chr:shit]]
+[[cs:shit]]
+[[cy:shit]]
+[[da:shit]]
+[[de:shit]]
+[[en:shit]]
+[[es:shit]]
+[[et:shit]]
+[[eu:shit]]
+[[fa:shit]]
+[[fi:shit]]
+[[fr:shit]]
+[[hu:shit]]
+[[io:shit]]
+[[it:shit]]
+[[ko:shit]]
+[[ku:shit]]
+[[la:shit]]
+[[lt:shit]]
+[[mg:shit]]
+[[ml:shit]]
+[[nl:shit]]
+[[no:shit]]
+[[oc:shit]]
+[[pl:shit]]
+[[pt:shit]]
+[[ru:shit]]
+[[sh:shit]]
+[[simple:shit]]
+[[sr:shit]]
+[[sv:shit]]
+[[ta:shit]]
+[[tg:shit]]
+[[tr:shit]]
+[[uk:shit]]
+[[uz:shit]]
+[[vi:shit]]
+[[zh:shit]]</text>
+      <sha1>naev11h5yzvp3kbhq3s922yqthniqzn</sha1>
+    </revision>
+  </page>
+  </xml>

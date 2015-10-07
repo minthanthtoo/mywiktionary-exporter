@@ -1,0 +1,143 @@
+  <page>
+    <title>Wiktionary:Bots</title>
+    <ns>4</ns>
+    <id>2192</id>
+    <revision>
+      <id>429494</id>
+      <parentid>353564</parentid>
+      <timestamp>2012-08-21T12:33:16Z</timestamp>
+      <contributor>
+        <username>Yoursmile</username>
+        <id>973</id>
+      </contributor>
+      <comment>/* YS-Bot */ new</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">* '''{{#language:en}}:''' Requests for the [[m:bot|bot]] flag should be made on this page. This wiki uses the [[m:bot policy|standard bot policy]], and allows [[m:bot policy#Global_bots|global bots]] and [[m:bot policy#Automatic_approval|automatic approval of certain types of bots]]. Other bots should apply below, and then [[m:Steward requests/Bot status|request access]] from a steward if there is no objection.
+**[[special:listusers/bot|List of bots with local flag]].
+* '''{{#language:my}}:'''
+__TOC__
+&lt;div class=&quot;boilerplate metadata discussion-archived&quot; style=&quot;background-color: #f5f3ef; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;&quot;&gt;
+==[[User:VolkovBot]]==
+I propose to give the bot flag to VolkovBot. VolkovBot performs the same tasks as SpaceBirdyBot and RobotGMwikt plus adding category links. I know VolkovBot's work in many other Wiktionaries: it is good and reliable, the bot uses pywikipedia framework is always up to date and is owned by [[w:ru:User:Volkov]]. Thanks, --[[User:Spacebirdy|ငွက္]] [[User_talk:Spacebirdy|&lt;sub&gt;(:&gt;&amp;nbsp;)=|&lt;/sub&gt;]]  ၁၁:၄၄၊ ၂၁ စက်​တင်​ဘာ​ ၂၀၀၈ (UTC)
+===Support===
+#'''Support'''--[[User:Piolinfax|Piolinfax]]  ၁၄:၄၈၊ ၂၂ စက်​တင်​ဘာ​ ၂၀၀၈ (UTC)
+#'''Support''' Good work as a global bot, no reason to refuse status here -- [[User:Quentinv57|Quentinv57]]  ၀၈:၄၇၊ ၅ စက်​တင်​ဘာ​ ၂၀၁၀ (UTC)
+===Oppose===
+===Comments===
+* Already flagged --[[User:Dferg|Dferg]]  ၀၈:၅၀၊ ၅ စက်​တင်​ဘာ​ ၂၀၁၀ (UTC)
+&lt;/div&gt;
+
+&lt;div class=&quot;boilerplate metadata discussion-archived&quot; style=&quot;background-color: #f5f3ef; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;&quot;&gt;
+==[[User:SpaceBirdyBot]]==
+Hello, I am running my Bot [[User:SpaceBirdyBot]] as interwikibot on [[:is:Special:Contributions/SpaceBirdyBot|is.wikt]] (and de,es,pt,ga,af,fo,nah,scn,nl,sv,ro) lately because not all links are catched by the current active bots there. If You are interested I can set my bot to run here also.
+
+I am using SVN pywikipedia (latest) and run it using &lt;pre&gt;interwiki.py -wiktionary -autonomous -force -noauto -nobacklink -noshownew -neverlink:fur,ilo,nov,sco&lt;/pre&gt;
+
+* Botmaster: [[:is:Notandi:Spacebirdy]]
+* Bot's name:[[User:SpaceBirdyBot]]
+* List of bot flags on other Wiktionarys:af,ar,co,ca,oc,da,de,el,es,it,is,pt,ga,gd,af,fo,nah,scn,nl,sv,ro,yi,zh-min-nan,...
+* Purpose:interwiki
+* Technical details:svn pywikipediabot, latest versions
+
+Best regards, --[[User:Spacebirdy|ငွက္]] [[User_talk:Spacebirdy|&lt;sub&gt;(:&gt;&amp;nbsp;)=|&lt;/sub&gt;]]  ၁၁:၄၄၊ ၂၁ စက်​တင်​ဘာ​ ၂၀၀၈ (UTC)
+===Support===
+#'''Support'''--[[User:Piolinfax|Piolinfax]]  ၁၄:၄၈၊ ၂၂ စက်​တင်​ဘာ​ ၂၀၀၈ (UTC)
+#'''Support''' Same as VolkovBot -- [[User:Quentinv57|Quentinv57]]  ၀၈:၄၈၊ ၅ စက်​တင်​ဘာ​ ၂၀၁၀ (UTC)
+===Oppose===
+===Comments===
+* Already flagged. [[User:Dferg|Dferg]]  ၀၈:၅၁၊ ၅ စက်​တင်​ဘာ​ ၂၀၁၀ (UTC)
+&lt;/div&gt;
+
+==[[User:RobotGMwikt]]==
+I also request botstatus for this interwiki bot, run by [[m:User:GerardM]], thanks, --[[User:Spacebirdy|ငွက္]] [[User_talk:Spacebirdy|&lt;sub&gt;(:&gt;&amp;nbsp;)=|&lt;/sub&gt;]]  ၁၁:၄၄၊ ၂၁ စက်​တင်​ဘာ​ ၂၀၀၈ (UTC)
+===Support===
+#'''Support'''--[[User:Piolinfax|Piolinfax]]  ၁၄:၄၈၊ ၂၂ စက်​တင်​ဘာ​ ၂၀၀၈ (UTC)
+===Oppose===
+#'''Oppose''' I doubt that this bot is really working for interwikies. See [[:fr:Special:Contributions/RobotGMwikt]] -- [[User:Quentinv57|Quentinv57]]  ၀၈:၅၀၊ ၅ စက်​တင်​ဘာ​ ၂၀၁၀ (UTC)
+===Comments===
+
+&lt;div class=&quot;boilerplate metadata discussion-archived&quot; style=&quot;background-color: #f5f3ef; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;&quot;&gt;
+==[[User:Interwicket]]==
+I request bot flag for Interwicket. Interwicket is run by [[:en:User:Robert Ullmann|Robert Ullmann]] and is a highly efficient and reliable bot and his botmaster  is responsive to the policies of the many projects where the bot runs --[[User:Piolinfax|Piolinfax]]  ၁၁:၁၈၊ ၈ ဖေ​ဖော်​ဝါ​ရီ​ ၂၀၀၉ (UTC)
+
+===Support===
+#'''Support''' --[[User:Piolinfax|Piolinfax]]  ၁၁:၁၈၊ ၈ ဖေ​ဖော်​ဝါ​ရီ​ ၂၀၀၉ (UTC)
+#'''Support''' Same as VolkovBot -- [[User:Quentinv57|Quentinv57]]  ၀၈:၅၁၊ ၅ စက်​တင်​ဘာ​ ၂၀၁၀ (UTC)
+===Oppose===
+===Comments===
+* '''[http://meta.wikimedia.org/w/index.php?title=Special%3ALog&amp;type=rights&amp;user=&amp;page=User%3AInterwicket%40mywiktionary&amp;year=2009&amp;month=2 Done]'''. Thanks, [[:is:Notandi:Spacebirdy|birdy]] :) --[[User:Piolinfax|Piolinfax]]  ၁၈:၁၃၊ ၂၁ ဖေ​ဖော်​ဝါ​ရီ​ ၂၀၀၉ (UTC)
+&lt;/div&gt;
+
+&lt;div class=&quot;boilerplate metadata discussion-archived&quot; style=&quot;background-color: #f5f3ef; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;&quot;&gt;
+==[[User:RoggBot]]==
+I request bot flag for RoggBot. RoggBot is run by [[:ru:User:Roggy|Roggy]] and is a highly efficient and reliable bot. RoggBot has got well-deserved bot flags in many other wiktionaries --[[User:Piolinfax|Piolinfax]]  ၁၁:၁၈၊ ၈ ဖေ​ဖော်​ဝါ​ရီ​ ၂၀၀၉ (UTC)
+
+===Support===
+#'''Support''' --[[User:Piolinfax|Piolinfax]]  ၁၁:၁၈၊ ၈ ဖေ​ဖော်​ဝါ​ရီ​ ၂၀၀၉ (UTC)
+
+===Oppose===
+===Comments===
+* Already flagged. [[User:Dferg|Dferg]]  ၀၈:၅၂၊ ၅ စက်​တင်​ဘာ​ ၂၀၁၀ (UTC)
+&lt;/div&gt;
+
+&lt;div class=&quot;boilerplate metadata discussion-archived&quot; style=&quot;background-color: #f5f3ef; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;&quot;&gt;
+==[[user:Luckas-bot|Luckas-bot]]==
+* Botmaster: [[:pt:user:Luckas Blade]]
+* Bot's name: [[User:Luckas-bot]]
+* List of bot flags on other Wiktionaries: [http://toolserver.org/~vvv/sulutil.php?user=Luckas-bot list]
+* Purpose: interwiki
+* Technical details: svn pywikipediabot, latest versions
+
+Best regards, --[[User:Luckas Blade|Luckas Blade]]  ၂၁:၄၇၊ ၁၉ ဖေ​ဖော်​ဝါ​ရီ​ ၂၀၁၀ (UTC)
+
+===Support===
+#'''Support''' This bot works finely now -- [[User:Quentinv57|Quentinv57]]  ၀၈:၅၃၊ ၅ စက်​တင်​ဘာ​ ၂၀၁၀ (UTC)
+===Oppose===
+===Comments===
+* Already flagged. [[User:Dferg|Dferg]]  ၀၈:၅၃၊ ၅ စက်​တင်​ဘာ​ ၂၀၁၀ (UTC)
+&lt;/div&gt;
+
+==[[user:JackBot|JackBot]]==
+* Botmaster: [[:fr:user:JackPotte]]
+* Bot's name: [[User:JackBot]]
+* List of bot flags on other Wiktionaries: [http://toolserver.org/~vvv/sulutil.php?user=JackBot list]
+* Purpose: repair the double redirections every day and the little [[user:CaBot|CaBot]] [[:fr:Wiktionnaire:Wikidémie/septembre_2010#Que_se_passe-t-il_sur_le_wiktionary_en_birman_.3F|mistake]], like [http://my.wiktionary.org/w/index.php?title=zyzzyvas&amp;action=historysubmit&amp;diff=104484&amp;oldid=104483 that] (these categorizing templates will be able to be modified later):
+*# [[verb]] wasn't correct.
+*# [[noun]] is translated by [[နာမ္]].&lt;ref&gt;http://www.ornagai.com/#NOUN&lt;/ref&gt; or [[:Category:နာမ်]]
+*# [[English]] by [[အဂၤလိပ္ ဘာသာစကား။]].&lt;ref&gt;http://www.ornagai.com/#english&lt;/ref&gt;&lt;ref&gt;http://www.planet.com.mm/dictionary/index.cfm?searchterms=english&amp;searchtype=SEARCH&lt;/ref&gt;&lt;ref&gt;http://www.burmese-dictionary.org/search.php&lt;/ref&gt; or [[:Category:အဂၤလိပ္စကား]]
+&lt;references/&gt;
+* Technical details: everyone could do also these two operations with [[m:redirect.py]] and [[w:en:Wikipedia:AutoWikiBrowser|AWB]]. [[User:JackPotte|JackPotte]]  ၂၁:၃၈၊ ၁၀ စက်​တင်​ဘာ​ ၂၀၁၀ (UTC)
+** '''Support''' -- [[User:Quentinv57|Quentinv57]]  ၁၅:၂၉၊ ၁၉ စက်​တင်​ဘာ​ ၂၀၁၀ (UTC)
+*** Flagged. [[User:Dferg|Dferg]]  ၁၀:၂၇၊ ၁၀ အောက်​တို​ဘာ​ ၂၀၁၀ (UTC)
+
+==[[User:MgSunBot|MgSunBot]]==
+I propose [[User:MgSunBot]] to be flagged as a bot so that it's frequent updates on Myanmar Wikipedia and Myanmar Wiktionary won't appear on [[Special:RecentChanges|လတ်တလောအပြောင်းအလဲများ]].
+* Bot accout: [[User:MgSunBot]] ([[Special:Contributions/MgSunBot|contributions]])
+* Botmaster: [[User:Lionslayer]]
+* Botmaster's home project: [[:my:User:Lionslayer]]
+* Purpose: Fixing encoding errors/titles/templates since this wiktionary needs a lot of cares.
+* Technical details: replace using Pywikipediabot 
+''&lt;nowiki&gt;(&quot;ဥာ&quot; &quot;ဉာ&quot; &quot;ဥ်&quot; &quot;ဉ်&quot; &quot;ုွ&quot; &quot;ွု&quot; &quot;ံွ&quot; &quot;ွံ&quot; &quot;ှွ&quot; &quot;ွှ&quot; &quot;ံု&quot; &quot;ုံ&quot; &quot;စျ&quot; &quot;ဈ&quot; &quot;သြ&quot; &quot;ဩ&quot; &quot;ဪ&quot; &quot;ဪ&quot; &quot;၀ိ&quot; &quot;ဝိ&quot; &quot;၀ီ&quot; &quot;ဝီ&quot; &quot;၀ု&quot; &quot;ဝု&quot; &quot;၀ူ&quot; &quot;ဝူ&quot; &quot;၀ေ&quot; &quot;ဝေ&quot; &quot;၀ဲ&quot; &quot;ဝဲ&quot; &quot;၀ါ&quot; &quot;ဝါ&quot; &quot;၀ှ&quot; &quot;ဝှ&quot; &quot;၀ံ&quot; &quot;ဝံ&quot; &quot;၀က်&quot; &quot;ဝက်&quot; &quot;၀ဂ်&quot; &quot;ဝဂ်&quot; &quot;၀င်&quot; &quot;ဝင်&quot; &quot;၀စ်&quot; &quot;ဝစ်&quot; &quot;၀ဍ်&quot; &quot;ဝဍ်&quot; &quot;၀ဋ်&quot; &quot;ဝဋ်&quot; &quot;၀ဏ်&quot; &quot;ဝဏ်&quot; &quot;၀တ်&quot; &quot;ဝတ်&quot; &quot;၀ဒ်&quot; &quot;ဝဒ်&quot; &quot;၀န်&quot; &quot;ဝန်&quot; &quot;၀ပ်&quot; &quot;ဝပ်&quot; &quot;၀ဘ်&quot; &quot;ဝဘ်&quot; &quot;၀ဗ်&quot; &quot;ဝဗ်&quot; &quot;၀မ်&quot; &quot;ဝမ်&quot; &quot;၀ယ်&quot; &quot;ဝယ်&quot; &quot;၀က္&quot; &quot;ဝက္&quot; &quot;၀ဂ္&quot; &quot;ဝဂ္&quot; &quot;၀စ္&quot; &quot;ဝစ္&quot; &quot;၀ဇ္&quot; &quot;ဝဇ္&quot; &quot;၀ဍ္&quot; &quot;ဝဍ္&quot; &quot;၀ဋ္&quot; &quot;ဝဋ္&quot; &quot;၀ဋ္&quot; &quot;ဝဎ္&quot;  &quot;၀ဎ္&quot; &quot;ဝဏ္&quot; &quot;၀တ္&quot; &quot;ဝတ္&quot; &quot;၀ဒ္&quot; &quot;ဝဒ္&quot; &quot;၀န္&quot; &quot;ဝန္&quot; &quot;၀ပ္&quot; &quot;ဝပ္&quot; &quot;၀ဗ္&quot; &quot;ဝဗ္&quot; &quot;၀မ္&quot; &quot;ဝမ္&quot; &quot;၀လ္&quot; &quot;ဝလ္&quot; &quot;််&quot; &quot;်&quot; &quot;့့&quot; &quot;့&quot; &quot;ံံ&quot; &quot;ံ&quot; &quot;္္&quot; &quot;္&quot;)&lt;/nowiki&gt;''
+[[User:Lionslayer|&lt;span style=&quot;text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml&quot;&gt;&lt;font size=2&gt;&lt;font color=#000000&gt;&lt;font face=&quot;BankGothic Md BT&quot;&gt;&lt;b&gt;&lt;i&gt;@==&lt;font color=#330000&gt;{&lt;font color=#660000&gt;Lion&lt;font color=#990000&gt;sla&lt;font color=#FF0000&gt;yer&gt;]][[User_Talk:Lionslayer|&lt;span style=&quot;text-shadow:grey 0.1em 0.1em 0.1em; class=texhtml&quot;&gt;&lt;font size=2&gt;&lt;font color=#427224&gt; &lt;sup&gt;☎&lt;/sup&gt;]]  ၀၄:၂၄၊ ၁၈ မတ်​ ၂၀၁၁ (UTC)
+
+==[[user:GedawyBot|GedawyBot]]==
+
+* Botmaster: [[w:ar:user:محمد الجداوي]]
+* Bot's name: [[User:GedawyBot]]
+* List of bot flags on other Wikis: [http://toolserver.org/~quentinv57/sulinfo/GedawyBot List]
+* Purpose: interwiki
+* Technical details: I don't make edits on templates. --[[User:محمد الجداوي|محمد الجداوي]]  ၁၈:၀၈၊ ၁ အောက်​တို​ဘာ​ ၂၀၁၁ (UTC)
+** Already flagged by a steward.--[[User:محمد الجداوي|محمد الجداوي]]  ၁၂:၀၈၊ ၃ အောက်​တို​ဘာ​ ၂၀၁၁ (UTC)
+
+==[[user:YS-Bot|YS-Bot]]==
+* Botmaster: [[:de:User:Yoursmile]]
+* Bot's name: [[User:YS-Bot]]
+* List of bot flags on other Wiktionaries: [http://toolserver.org/~vvv/sulutil.php?user=YS-Bot list]
+* Purpose: interwiki
+* Technical details: pywikipediabot, latest versions
+
+If you need some test edits, just tell me. Best regards --[[User:Yoursmile|Yoursmile]] ([[User talk:Yoursmile|talk]])  ၁၂:၃၃၊ ၂၁ ဩ​ဂုတ်​ ၂၀၁၂ (UTC)</text>
+      <sha1>mf5470hwtwv3lw9k08rrelutwkgghpz</sha1>
+    </revision>
+  </page>
